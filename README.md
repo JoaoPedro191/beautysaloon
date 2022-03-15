@@ -1,4 +1,4 @@
-<h1 align= "center">Beautysalon.</h1>
+<h1 align= "center">Beautysalon</h1>
 
 <div align = "center">
     <img src = "./images/Capa.svg">
@@ -8,7 +8,7 @@
 
 ## ⌨️ Sobre o projeto
 
-### Esse projeto foi criado e apresentado pela Rocketseat 💜 (semana da NLW toguether). (OriginSix) é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
+#### Esse projeto foi criado e apresentado pela Rocketseat 💜 (semana da NLW toguether). (OriginSix) é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
 
 ## Tecnologias Utilizadas no OriginSix
 
@@ -24,7 +24,7 @@
 
 - [ScrollRevel](https://scrollrevealjs.org/)
 
-## Utilitarios
+## Utilitários
 
 - [randomuser.me](https://randomuser.me/photos)
 
